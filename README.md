@@ -96,7 +96,33 @@ Express/node js application that allows a user to access and manipulate a databa
 
 
 
-## Getting Started
+## Demo Walkthrough Videos
+<h4 align="center"> PUT,DEL,POST,GET for Products</h4>
+
+
+
+
+https://user-images.githubusercontent.com/103224098/190808942-edae0a31-3226-4063-8ce7-38537379964e.mov
+
+
+
+<h4 align="center"> PUT,DEL,POST,GET for Tags</h4>
+
+
+
+https://user-images.githubusercontent.com/103224098/190808803-2cf5fc39-0be7-417b-b79d-8c8630999b7c.mov
+
+
+
+
+<h4 align="center"> PUT,DEL,POST,GET for Categories</h4>
+
+
+
+
+https://user-images.githubusercontent.com/103224098/190808766-ea646672-2245-410f-9479-78e6239e91ab.mov
+
+
 
 ### Prerequisites
 
