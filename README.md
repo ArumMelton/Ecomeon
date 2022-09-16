@@ -12,7 +12,7 @@
 <h3 align="center">EComeOn!</h3>
 
   <p align="center">
-    EcomeOn is an Ecommerce node/express application that allows the user control over a database.
+    EComeOn is an Ecommerce node/express application that allows the user control over a database.
     <br />
     <br />
     <a href="https://github.com/ArumMelton/Ecomeon"><strong>Explore the docs »</strong></a>
